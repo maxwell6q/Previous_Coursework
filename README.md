@@ -21,3 +21,11 @@ For the labs, a servo motor with various load and disturbance conditions and a b
 
 ## Quantum Information and Computing
 The course introduced quantum-mechanical principles and their applications to communication and computing setups. The repository includes a homework on the basic principles and a lab report on proving entanglement and state tomography.
+
+
+## Future Coursework
+In the coming Fall Semester 25/26, I will participate in the following courses with anticipated projects/homework:
+- Adaptive and Model Predictive Control: Homework on non-linear control using MATMPC
+- Robotics and Control: Group project on distributed robotics using ROS2
+- Intelligent Robotics: Group projects on path planning and identification using ROS2
+- Reinforcement Learning: Project on robotics
