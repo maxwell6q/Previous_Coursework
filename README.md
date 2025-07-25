@@ -1,5 +1,5 @@
 # Previous_Coursework
-Selection of Previous Academic Coursework
+Selection of Previous Academic Coursework and [my current transcript of records](/PriesMaximilian_Transcript_0725.pdf).
 
 ## Bachelor's Thesis
 Wind Modeling and Control of Electric Urban Air Vehicles, including related MATLAB and Simulink files.
