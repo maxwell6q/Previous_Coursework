@@ -1,12 +1,12 @@
 # Previous_Coursework
-Selection of Previous Academic Coursework and [my current transcript of records](/PriesMaximilian_Transcript_1025.pdf).
+Selection of Previous Academic Coursework and [my current transcript of records](/PriesMaximilian_Transcript.pdf).
 
 ## [Bachelor's Thesis](/Bachelors_Thesis)
 Wind Modeling and Control of Electric Urban Air Vehicles, including related MATLAB and Simulink files.
 
 
 ## [Computer Vision](/Computer_Vision)
-Includes a midterm group project introducing object recognition using feature-based methods, and a final group project on feature-based visual odometry.
+Includes a [midterm](/Computer_Vision/Midterm/) group project introducing object recognition using feature-based methods, and a [final](/Computer_Vision/Final/) group project on feature-based visual odometry.
 
 ## [Estimation and Filtering](/Estimation_and_Filtering)
 An optional homework implementing a Markov-Chain Monte Carlo estimation to estimate system parameters of a COVID-19 epidemics model.
