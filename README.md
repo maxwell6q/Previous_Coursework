@@ -1,5 +1,5 @@
 # Previous_Coursework
-Selection of Previous Academic Coursework and [my current transcript of records](/PriesMaximilian_Transcript.pdf).
+Selection of (public) Previous Academic Coursework and [my current transcript of records](/PriesMaximilian_Transcript.pdf).
 
 ## [Bachelor's Thesis](/Bachelors_Thesis)
 Wind Modeling and Control of Electric Urban Air Vehicles, including related MATLAB and Simulink files.
@@ -18,11 +18,3 @@ Four lab sessions were conducted on modelling and various control strategies usi
 
 ## [Quantum Information and Computing](/Quantum_Information_and_Computing)
 Includes a homework on quantum fundamentals and a lab report on entanglement verification and state tomography.
-
-
-## Current Coursework
-In the current Fall Semester 25/26, I am participating in the following courses with projects/homework:
-- Adaptive and Model Predictive Control: Homework on non-linear control using Acados
-- Robotics and Control: Group project on the control of a unicycle robot using ROS2
-- Intelligent Robotics: Group projects on navigation and object detection, and on control of a robotic arm using ROS2
-- Reinforcement Learning: Project using RL for a swing-up maneuver and stabilization of an inverted double-pendulum
