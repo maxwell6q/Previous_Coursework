@@ -7,7 +7,7 @@ This repository contains a complete C++ and OpenCV-based visual odometry system 
 
 The pipeline recovers absolute scale and estimates rigid-body transformations by combining traditional feature-based tracking with 3D point lifting.
 
-![Visual Odometry Pipeline](https://github.com/maxwell6q/Previous_Coursework/tree/main/Computer_Vision/Figures/vo_pipeline.png)
+![Visual Odometry Pipeline](https://github.com/maxwell6q/Previous_Coursework/blob/main/Computer_Vision/Figures/vo_pipeline.png)
 
 * **Feature Detection:** Utilizes SIFT keypoints restricted to valid depth regions using dynamic masking, preprocessed with CLAHE and Gaussian blurring for illumination invariance.
 * **Matching & Geometric Filtering:** Employs K-Nearest Neighbors (KNN) with Lowe's ratio test.
@@ -16,7 +16,7 @@ The pipeline recovers absolute scale and estimates rigid-body transformations by
 * **Trajectory Computation:** Resolves 3D transformations between frames via an iterative Kabsch algorithm (SVD), and updates the global transformation recursively.
 * **Performance Evaluation:** The system was developed and evaluated using the TUM RGB-D SLAM Dataset and accompanying tools.
   
-![Example Result](https://github.com/maxwell6q/Previous_Coursework/tree/main/Computer_Vision/Figures/vo_results.png)
+![Example Result](https://github.com/maxwell6q/Previous_Coursework/blob/main/Computer_Vision/Figures/vo_results.png)
 
 
 ## Midterm Project
@@ -30,4 +30,4 @@ a standard sliding box, a contour-based box, and a centered sliding box that adj
 * **Performance Evaluation:** The system's effectiveness is quantitatively measured using standard computer vision metrics,
 specifically Mean Intersection over Union (mIoU) and Detection Accuracy. The known objects included a Power Drill, a Mustard Bottle and a Sugar Box.
 
-![Example Result](https://github.com/maxwell6q/Previous_Coursework/tree/main/Computer_Vision/Figures/obj_matching.png)
+![Example Result](https://github.com/maxwell6q/Previous_Coursework/blob/main/Computer_Vision/Figures/obj_matching.png)
