@@ -2,7 +2,7 @@
 
 In this group project a feature-based visual odometry pipeline was developed. In terms of hyperparameters and certain code aspects (e.g. hard-coded relative file paths/names) it is tailored to the [TUM RGB-D SLAM Dataset](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) (Strum, 2012). A detailed description of the task can be found in the [Project Proposal](/Final_Project_Proposal.pdf), and a detailed description of the solution pipeline can be found in the [Final Report](/Final_Project_Report.pdf).
 
-![Trajectory for the `freiburg2_pioneer_360` dataset](/results/ate/freiburg2_pioneer_360.png) 
+![Trajectory for the `freiburg2_pioneer_360` dataset](https://github.com/maxwell6q/Previous_Coursework/blob/main/Computer_Vision/Final/results/ate/freiburg2_pioneer_360.png) 
 
 ## **Build Instructions**
 
