@@ -3,7 +3,7 @@ This repository contains MATLAB and Simulink implementations of a high-fidelity 
 
 Scene Camera             |  Interceptor Mounted
 :-------------------------:|:-------------------------:
-![Scene Camera](https://github.com/maxwell6q/Previous_Coursework/blob/main/Unmanned_Systems/scene.mp4) | ![Interceptor Mounted](https://github.com/maxwell6q/Previous_Coursework/blob/main/Unmanned_Systems/husky.mp4)
+![Scene Camera](https://github.com/maxwell6q/Previous_Coursework/blob/main/Unmanned_Systems/scene.gif) | ![Interceptor Mounted](https://github.com/maxwell6q/Previous_Coursework/blob/main/Unmanned_Systems/husky.gif)
 
 ## Dynamic Modeling
 The platform model is based on a custom hexarotor developed by the University of Bologna. The Simulink environment incorporates high-fidelity subsystems to reflect real-world flight dynamics:
