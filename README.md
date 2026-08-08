@@ -28,6 +28,14 @@ A collection of collaborative projects tackling core computer vision and robotic
 Practical, hardware-in-the-loop implementations of control theory across four intensive laboratory sessions.
 * **Hardware Projects:** Mathematical modeling and closed-loop control of a DC servo motor and a highly dynamic two-wheeled balancing robot.
 
+## 🛸 [Unmanned Systems](/Unmanned_Systems)
+**Focus:** Flight Dynamics, Aerodynamic Modeling, Cascaded Control, Visual Tracking
+High-fidelity simulation and control of a hexarotor platform in MATLAB, Simulink, and Unreal Engine.
+
+* **Flight Dynamics & Powertrain:** Features a combined battery-ESC-motor model with experimental efficiency/PWM mappings, a NASA BEMT aerodynamic rotor model, and WGS84/ISA environment models.
+
+* **Control & Interception:** Implements a PX4-style cascaded controller (velocity, attitude, angular rate) and an Unreal Engine-integrated visual pipeline using feature detection for autonomous target interception
+
 ## ⚛️ [Quantum Information and Computing](/Quantum_Information_and_Computing)
 **Focus:** State Dynamics, Statistical Data Analysis, Optimization
 Bridging linear algebra and system dynamics with quantum theory through theoretical problem-solving and rigorous experimental data analysis.
